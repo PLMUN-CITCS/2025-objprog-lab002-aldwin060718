@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class VariablesAndCaseSensitivity {
     public static void main(String[] args) {
 	int studentAge = 15;
@@ -12,3 +13,6 @@ public class VariablesAndCaseSensitivity {
 	System.out.println("Counter (Different Case): " + Counter);
     }
 }
+=======
+
+>>>>>>> 7c1a3aa7b16eda7a7e5222cfe7109022362729b4
