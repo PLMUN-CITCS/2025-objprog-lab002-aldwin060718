@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class VariablesAndCaseSensitivity {
     public static void main(String[] args) {
 	int studentAge = 15;
